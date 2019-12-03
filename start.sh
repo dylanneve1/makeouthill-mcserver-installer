@@ -1,9 +1,11 @@
 echo 
 echo Starting...
 echo
-sudo screen -S MOH
+echo Staring server.
 cd server-files
+echo - Entered directory
+echo
+echo Starting now...
+sleep 2
+echo
 sudo ./bedrock-server
-echo
-echo STARTED.
-echo
