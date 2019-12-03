@@ -18,3 +18,7 @@ echo - Downloaded files.
 mv mc-server-nonjava-gitlab server-files
 echo - Renamed folder.
 echo
+echo Done installing.
+echo Please run 'sudo ./start.sh' to continue.
+echo
+sleep 2
