@@ -3,6 +3,7 @@
 RED='\033[1;31m'
 CYAN='\033[0;36m'
 NC='\033[0m'
+
 echo
 echo "${RED}    ----------------------------------------------"
 echo "${RED}    - Welcome to MAKEOUTHILL MC Server installer -"
