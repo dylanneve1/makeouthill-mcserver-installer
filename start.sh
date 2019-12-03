@@ -8,4 +8,4 @@ echo
 echo Starting now...
 sleep 2
 echo
-sudo ./bedrock-server
+sudo ./bedrock_server
