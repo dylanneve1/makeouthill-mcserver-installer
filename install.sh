@@ -1,4 +1,4 @@
-# Script by dylanneve1@gmail.com
+#!/bin/sh
 
 RED='\033[1;31m'
 CYAN='\033[0;36m'
