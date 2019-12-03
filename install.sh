@@ -18,6 +18,10 @@ echo - Downloaded files.
 mv mc-server-nonjava-gitlab server-files
 echo - Renamed folder.
 echo
+echo Setting up screen.
+sudo apt install -y screen > /dev/null 2>&1
+echo - Finshed setting up screen.
+echo
 echo Done installing.
 echo Please run 'sudo ./start.sh' to continue.
 echo
